@@ -28,21 +28,21 @@ Amb la informació de programar tasques i la del article anterior fes:
     - I ja tenim la tasca feta, ara esperem a que ens surti el recordatori<br>
         ![image](https://github.com/user-attachments/assets/d24173bc-fc26-43c0-802a-329d6198b596)<br>
         ![image](https://github.com/user-attachments/assets/fdb10a2d-9854-426a-a275-1a1125f23d53)<br>
-
-
-
-
-
-
-
-
-
 - Fes que t'avisi en algun moment de la classe.
 - Mostra tot el procés i el resultat.
 
 ### Activitat 2.
 
-- Programa el reinici de l'ordinador per a un moment de la classe.
+- Programa el reinici de l'ordinador per a un moment de la classe.<br>
+    - Primer fem el document .cmd per fer el que diu a l'enunciat de l'activitat 2<br>
+        ![image](https://github.com/user-attachments/assets/9b85608a-2baf-4b85-b8bb-939acf261ab6)<br>
+    - Un cop creat obrim el programador de tasques i anem a "Crear tareas básicas"<br>
+        ![image](https://github.com/user-attachments/assets/fa340ef1-5310-4e4e-9948-e1f4b8acc9e5)<br>
+    - Un cop dins fiquem el nom que vulguem i l'hi donem a "Siguiente"<br>
+        ![image](https://github.com/user-attachments/assets/46579f43-5c0c-4939-81df-8d4af530fb6d)<br>
+
+
+
 - Mostra tot el procés i el resultat.
 
 ### Activitat 3.
