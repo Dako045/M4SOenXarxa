@@ -68,20 +68,33 @@ Amb la informació de programar tasques i la del article anterior fes:
     - Despres de donar-li a "siguiente" l'hi donem a "finalizar"<br>
         ![image](https://github.com/user-attachments/assets/e92d3246-6ad3-476a-8fb6-ad53b2f83beb)<br>
     - Aqui ja s'esta obrint<br>
-        ![image](https://github.com/user-attachments/assets/f72a6504-7ba0-43a0-982d-cfd61ff2a932)<br>
-
-
-
-
-
-
-
+        ![image](https://github.com/user-attachments/assets/3793ce23-ff7a-4a2d-9e34-6f9e65fce309)<br>
 - Comproba que funciona.
 - Mostra tot el procés i el resultat.
 
 ### Activitat 4.
 
-- Fes que una aplicació s'executi a una hora determinada.
+- Fes que una aplicació s'executi a una hora determinada.<br>
+    - Tornem a obrir el administrador de tasques i anem a l'apartat on posa "Crear tarea basica"<br>
+        ![image](https://github.com/user-attachments/assets/6de6b4df-369a-4fdf-8a8d-75d9803715a2)<br>
+    - Un cop dins fiquem el nom que vulguem<br>
+        ![image](https://github.com/user-attachments/assets/7e006f1b-33bc-467d-aeb9-92e856bbc9f5)<br>
+    - Deixem l'opció que ve per defecte<br>
+        ![image](https://github.com/user-attachments/assets/e7f493ae-deae-4336-a6e8-bb3387f7686a)<br>
+    - "Siguiente"<br>
+        ![image](https://github.com/user-attachments/assets/fcebf82c-b517-454b-b7bd-89d8ec058180)<br>
+        ![image](https://github.com/user-attachments/assets/2fada6d5-a725-470e-8cd5-bf68f68ed3aa)<br>
+    - Aqui anem a buscar el que ens demana l'enunciat de l'activitat 4<br>
+        ![image](https://github.com/user-attachments/assets/d86e2ad8-cdf5-4c77-b955-25ea88fdd6e4)<br>
+    - "Finalizar"<br>
+        ![image](https://github.com/user-attachments/assets/ce074671-b5f7-42c6-ab04-b460c65487ad)<br>
+
+
+
+
+
+
+
 - Comproba que funciona.
 - Mostra tot el procés i el resultat.
 
