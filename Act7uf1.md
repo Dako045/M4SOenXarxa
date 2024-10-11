@@ -40,6 +40,20 @@ Amb la informació de programar tasques i la del article anterior fes:
         ![image](https://github.com/user-attachments/assets/fa340ef1-5310-4e4e-9948-e1f4b8acc9e5)<br>
     - Un cop dins fiquem el nom que vulguem i l'hi donem a "Siguiente"<br>
         ![image](https://github.com/user-attachments/assets/46579f43-5c0c-4939-81df-8d4af530fb6d)<br>
+    - Triem la quarta opció "Una vez" i "Siguiente"<br>
+        ![image](https://github.com/user-attachments/assets/5a38fc77-ba5e-4168-bbfa-cab9a92bed0e)<br>
+    - "Siguiente"<br>
+        ![image](https://github.com/user-attachments/assets/1ca859ee-b434-4170-a388-5ded3ea79d11)<br>
+        ![image](https://github.com/user-attachments/assets/baec2e60-48ac-4b54-8975-96028ff500b0)<br>
+    - L'hi donem a "examinar"i busquem l'arxiu .cmd que em preparat previament<br>
+        ![image](https://github.com/user-attachments/assets/c7cd70e9-48d5-400b-b18d-4efad2a4c761)<br>
+    - I aqui ja s'esta reiniciant<br>
+        ![image](https://github.com/user-attachments/assets/c13b08af-d90e-4e24-83b6-18aec0b3007b)<br>
+
+
+
+
+
 
 
 
