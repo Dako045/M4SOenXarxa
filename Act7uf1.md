@@ -15,8 +15,17 @@ Amb la informació de programar tasques i la del article anterior fes:
         ![image](https://github.com/user-attachments/assets/8c3b64ec-da9c-4417-8efe-8e72a623800d)<br>
     - Posem l'opció de "Una vez" (la quarta)<br>
         ![image](https://github.com/user-attachments/assets/561dd87d-8185-41aa-822d-0f68092a5024)<br>
-    - "Siguiente"
-        ![image](https://github.com/user-attachments/assets/830f26b2-1bda-4e48-8095-12f0a49a3881)
+    - "Siguiente"<br>
+        ![image](https://github.com/user-attachments/assets/830f26b2-1bda-4e48-8095-12f0a49a3881)<br>
+    - "Siguiente" No toquem res de les opcións<br>
+        ![image](https://github.com/user-attachments/assets/a0953724-7be4-4df2-8419-682fa8487982)<br>
+    - Un cop aqui anem a examniar i busquem el fitxer .cmd que em creat amb el que demana a l'enunciat de l'activitat<br>
+        ![image](https://github.com/user-attachments/assets/63e177fc-4177-483d-9d51-d9e12eb5103e)<br>
+    - Aquest fixer es aixi<br>
+        ![image](https://github.com/user-attachments/assets/9413f8fe-e4ed-4880-8849-04b0f6dccaa2)<br>
+
+
+
 
 
 
