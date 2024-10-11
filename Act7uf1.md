@@ -87,14 +87,10 @@ Amb la informació de programar tasques i la del article anterior fes:
     - Aqui anem a buscar el que ens demana l'enunciat de l'activitat 4<br>
         ![image](https://github.com/user-attachments/assets/d86e2ad8-cdf5-4c77-b955-25ea88fdd6e4)<br>
     - "Finalizar"<br>
-        ![image](https://github.com/user-attachments/assets/ce074671-b5f7-42c6-ab04-b460c65487ad)<br>
-
-
-
-
-
-
-
+        ![image](https://github.com/user-attachments/assets/0fd548db-5779-4997-9ae8-b039aad01397)<br>
+    - I aqui ja ho tindriem<br>
+        ![image](https://github.com/user-attachments/assets/f80d135c-abcf-4cc4-bc60-8d7c3fa975d3)<br>
+      
 - Comproba que funciona.
 - Mostra tot el procés i el resultat.
 
@@ -103,4 +99,32 @@ Amb la informació de programar tasques i la del article anterior fes:
 - Esborra fitxers i deixa'ls a la paperera de reciclatge.
 - Programa que la paperera de reciclatge es buidi a una hora determinada.
 - Comproba que funciona.
-- Mostra tot el procés i el resultat.
+- Mostra tot el procés i el resultat.<br>
+
+    - Tornem a obrir el administrador de tasques i anem a l'apartat on posa "Crear tarea basica"<br>
+        ![image](https://github.com/user-attachments/assets/6de6b4df-369a-4fdf-8a8d-75d9803715a2)<br>
+    - Fiquem el nom que vulguem<br>
+        ![image](https://github.com/user-attachments/assets/1d7389bc-840b-415e-8fa5-cef94bbcca56)<br>
+    - Deixem l'opció que ve per defecte<br>
+        ![image](https://github.com/user-attachments/assets/e7f493ae-deae-4336-a6e8-bb3387f7686a)<br>
+    - "Siguiente"<br>
+        ![image](https://github.com/user-attachments/assets/d6ef07c3-6207-4a43-add3-ceac18ef08ba)<br>
+        ![image](https://github.com/user-attachments/assets/2fada6d5-a725-470e-8cd5-bf68f68ed3aa)<br>
+    - Fiquem el que ens demana a l'activitat, ho fem amb la comanda "-NoProfile -Command "Clear-RecycleBin -Force"<br>
+        ![image](https://github.com/user-attachments/assets/4fa89b38-777b-4253-a342-2a23399efe50)<br>
+    - Un cop hem donat "siguiente" l'hi donem a "finalizar"<br>
+        ![image](https://github.com/user-attachments/assets/88e7c740-a51d-4092-b6e0-3b2da926bf73)<br>
+    - I ja ho tenim funcionant<br>
+        ![image](https://github.com/user-attachments/assets/84201b6c-ee13-47c6-90de-5c268574930f)<br>
+        ![image](https://github.com/user-attachments/assets/bf657be9-0e6a-4475-a4d0-b8061b22b6c3)<br>
+
+
+
+
+
+
+
+
+
+
+
