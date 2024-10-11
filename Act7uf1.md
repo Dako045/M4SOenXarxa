@@ -20,9 +20,9 @@ Amb la informació de programar tasques i la del article anterior fes:
     - "Siguiente" No toquem res de les opcións<br>
         ![image](https://github.com/user-attachments/assets/a0953724-7be4-4df2-8419-682fa8487982)<br>
     - Un cop aqui anem a examniar i busquem el fitxer .cmd que em creat amb el que demana a l'enunciat de l'activitat<br>
-        ![image](https://github.com/user-attachments/assets/63e177fc-4177-483d-9d51-d9e12eb5103e)<br>
+        ![image](https://github.com/user-attachments/assets/c62382fe-6b54-4285-b218-0402356c495f)<br>
     - Aquest fixer es aixi<br>
-        ![image](https://github.com/user-attachments/assets/9413f8fe-e4ed-4880-8849-04b0f6dccaa2)<br>
+        ![image](https://github.com/user-attachments/assets/713e5096-26b0-4918-b6ca-8e7c02dca86d)<br>
 
 
 
