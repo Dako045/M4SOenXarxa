@@ -50,18 +50,26 @@ Amb la informació de programar tasques i la del article anterior fes:
     - I aqui ja s'esta reiniciant<br>
         ![image](https://github.com/user-attachments/assets/c13b08af-d90e-4e24-83b6-18aec0b3007b)<br>
 
-
-
-
-
-
-
-
 - Mostra tot el procés i el resultat.
 
 ### Activitat 3.
 
-- Fes que quan un usuari iniciï sessió s'obri el navegador amb la web de l'institut.
+- Fes que quan un usuari iniciï sessió s'obri el navegador amb la web de l'institut.<br>
+    - Entrem a l'administrador de tasques i anem a l'opció de "Crear una tarea básica"<br>
+        ![image](https://github.com/user-attachments/assets/fe92e762-7d6e-49de-b08b-eb70d1d06d6b)<br>
+    - Un cop dins fiquem el nom que vulguem i l'hi donem a "Siguiente"<br>
+        ![image](https://github.com/user-attachments/assets/ae1b8592-1b7a-4d47-af66-b0a34ff29790)<br>
+    - En aquest cas, l'hi donem a la penulitma opció "Al iniciar sesión"<br>
+        ![image](https://github.com/user-attachments/assets/6c301bde-2008-47b4-8528-32c6753b9b47)<br>
+    - "Siguiente"<br>
+        ![image](https://github.com/user-attachments/assets/6e0560e8-149f-46fd-a31b-5d4719e688ef)<br>
+    - Aqui fiquem el que demana a l'enunciat de l'activitat 3, en aquest cas posem la ruta del nostre navegador web i la pàgina web de l'institut<br>
+        ![image](https://github.com/user-attachments/assets/7111a42b-7f21-4869-90e3-6d28f0343d40)<br>
+
+
+
+
+
 - Comproba que funciona.
 - Mostra tot el procés i el resultat.
 
