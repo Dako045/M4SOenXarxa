@@ -65,6 +65,12 @@ Amb la informació de programar tasques i la del article anterior fes:
         ![image](https://github.com/user-attachments/assets/6e0560e8-149f-46fd-a31b-5d4719e688ef)<br>
     - Aqui fiquem el que demana a l'enunciat de l'activitat 3, en aquest cas posem la ruta del nostre navegador web i la pàgina web de l'institut<br>
         ![image](https://github.com/user-attachments/assets/7111a42b-7f21-4869-90e3-6d28f0343d40)<br>
+    - Despres de donar-li a "siguiente" l'hi donem a "finalizar"<br>
+        ![image](https://github.com/user-attachments/assets/e92d3246-6ad3-476a-8fb6-ad53b2f83beb)<br>
+    - Aqui ja s'esta obrint<br>
+        ![image](https://github.com/user-attachments/assets/f72a6504-7ba0-43a0-982d-cfd61ff2a932)<br>
+
+
 
 
 
