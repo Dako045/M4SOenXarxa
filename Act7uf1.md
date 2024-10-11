@@ -27,7 +27,8 @@ Amb la informació de programar tasques i la del article anterior fes:
         ![image](https://github.com/user-attachments/assets/69c99b48-a5c2-4c50-9d5b-78a581105005)<br>
     - I ja tenim la tasca feta, ara esperem a que ens surti el recordatori<br>
         ![image](https://github.com/user-attachments/assets/d24173bc-fc26-43c0-802a-329d6198b596)<br>
-    - 
+        ![image](https://github.com/user-attachments/assets/fdb10a2d-9854-426a-a275-1a1125f23d53)<br>
+
 
 
 
