@@ -16,7 +16,7 @@ Amb la informació de programar tasques i la del article anterior fes:
     - Posem l'opció de "Una vez" (la quarta)<br>
         ![image](https://github.com/user-attachments/assets/561dd87d-8185-41aa-822d-0f68092a5024)<br>
     - "Siguiente"<br>
-        ![image](https://github.com/user-attachments/assets/830f26b2-1bda-4e48-8095-12f0a49a3881)<br>
+        ![image](https://github.com/user-attachments/assets/dbd26416-15d4-45d4-8d5f-875662e996ce)<br>
     - "Siguiente" No toquem res de les opcións<br>
         ![image](https://github.com/user-attachments/assets/a0953724-7be4-4df2-8419-682fa8487982)<br>
     - Un cop aqui anem a examniar i busquem el fitxer .cmd que em creat amb el que demana a l'enunciat de l'activitat<br>
