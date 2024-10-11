@@ -23,8 +23,12 @@ Amb la informació de programar tasques i la del article anterior fes:
         ![image](https://github.com/user-attachments/assets/c62382fe-6b54-4285-b218-0402356c495f)<br>
     - Aquest fixer es aixi<br>
         ![image](https://github.com/user-attachments/assets/713e5096-26b0-4918-b6ca-8e7c02dca86d)<br>
-    - Despres de donar-li a "Siguiente" l'hi donem a "Finalitzar"
-        ![image](https://github.com/user-attachments/assets/69c99b48-a5c2-4c50-9d5b-78a581105005)
+    - Despres de donar-li a "Siguiente" l'hi donem a "Finalitzar"<br>
+        ![image](https://github.com/user-attachments/assets/69c99b48-a5c2-4c50-9d5b-78a581105005)<br>
+    - I ja tenim la tasca feta, ara esperem a que ens surti el recordatori<br>
+        ![image](https://github.com/user-attachments/assets/d24173bc-fc26-43c0-802a-329d6198b596)<br>
+    - 
+
 
 
 
