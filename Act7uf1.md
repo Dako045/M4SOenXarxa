@@ -7,6 +7,9 @@ Amb la informació de programar tasques i la del article anterior fes:
 ### Activitat 1.
 
 - Fes un recordatori que digui "X Y has de comprar el pa", on X Y sigui el teu nom i cognom.
+    Primer hem d'entrar a  l'administrador del servidor a l'apartat de "herramientas i a l'opció de "Programador de tareas
+      ![image](https://github.com/user-attachments/assets/bf97310e-0832-48fa-a560-c45ee2940931)
+
 - Fes que t'avisi en algun moment de la classe.
 - Mostra tot el procés i el resultat.
 
