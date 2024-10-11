@@ -14,7 +14,10 @@ Amb la informació de programar tasques i la del article anterior fes:
     - L'hi posem el nom que vulguem i "Siguiente"<br>
         ![image](https://github.com/user-attachments/assets/8c3b64ec-da9c-4417-8efe-8e72a623800d)<br>
     - Posem l'opció de "Una vez" (la quarta)<br>
-        ![image](https://github.com/user-attachments/assets/561dd87d-8185-41aa-822d-0f68092a5024)
+        ![image](https://github.com/user-attachments/assets/561dd87d-8185-41aa-822d-0f68092a5024)<br>
+    - "Siguiente"
+        ![image](https://github.com/user-attachments/assets/830f26b2-1bda-4e48-8095-12f0a49a3881)
+
 
 
 - Fes que t'avisi en algun moment de la classe.
