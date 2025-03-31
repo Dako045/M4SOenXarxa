@@ -50,8 +50,15 @@ Reinicia el servei SAMBA.
 
 Comprova que tens accés des de Windows amb les credencials de l'usuari.
 
-![image](https://github.com/user-attachments/assets/c4638aaa-a146-4960-9abe-d365461a93c2)
+![image](https://github.com/user-attachments/assets/1bc8dcdd-d7f4-4660-92f8-c0525a6ddd10)
 
+*Ho he fet amb un altre usuari perque no em funcionava
 
 Crea algun fitxer a la carpeta.
+
+![image](https://github.com/user-attachments/assets/1a4b8164-42d5-4c4e-b0b7-b1c54fd21d45)
+
 Comprova que s'ha creat a Linux i té els permisos 755.
+
+![image](https://github.com/user-attachments/assets/6c676383-0b1f-4f06-9119-533558269292)
+
