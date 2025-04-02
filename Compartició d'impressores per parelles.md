@@ -26,7 +26,8 @@ Despres l'hem configurat obrint el navegador i anant a l'adreça http://localhos
 
 Un cop alli hem ficat la configuració seguent:
 
-![image](https://github.com/user-attachments/assets/b4dcf4fe-b51c-4e69-9ad7-74a948dc64e7)
+![image](https://github.com/user-attachments/assets/ff2118f6-9021-4fe7-96cf-0050ae45b261)
+
 
 Despres hem anat al fitxer de configuració (/etc/cups/cupsd.conf) i hem fet les següents modificacions:
 
@@ -38,6 +39,14 @@ Despres hem anat al fitxer de configuració (/etc/cups/cupsd.conf) i hem fet les
 Despres d'aquestes modificacions hem anat a windows Panel de control > Dispositius i impressores > Afegir una impressora i ja ens sortira la impressora que hem compartit desde Ubuntu.
 
 ![Captura de pantalla 2025-04-02 114444](https://github.com/user-attachments/assets/bbc8b2ac-54d3-41e6-a328-9728e0b8209f)
+
+Un cop afegida comprovem que funciona enviant una pàgina de prova:
+
+![image](https://github.com/user-attachments/assets/ead1df4d-8c57-4ea0-9d6e-166d89e7d575)
+
+I aqui podem comprovar que ha arribat:
+
+![image](https://github.com/user-attachments/assets/eab35896-244d-4888-87c7-e71bebb4130c)
 
 
 
