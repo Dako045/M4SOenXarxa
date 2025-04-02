@@ -28,16 +28,33 @@ Un cop alli hem ficat la configuració seguent:
 
 ![image](https://github.com/user-attachments/assets/b4dcf4fe-b51c-4e69-9ad7-74a948dc64e7)
 
+Despres hem anat al fitxer de configuració (/etc/cups/cupsd.conf) i hem fet les següents modificacions:
 
+![image](https://github.com/user-attachments/assets/64cd6c0e-0a77-4c4c-bf1b-fe38dc246c62)
+![image](https://github.com/user-attachments/assets/ea5c3ea9-786a-469f-a2ed-03dc5dcc62f6)
+![image](https://github.com/user-attachments/assets/e7973712-e7cb-4068-b3a9-ed70e8e61a44)
+![image](https://github.com/user-attachments/assets/379f4b06-d779-4fbf-967d-b3a0dfd18367)
 
-
-
-
-
-
-
+Despres d'aquestes modificacions hem anat a windows Panel de control > Dispositius i impressores > Afegir una impressora i ja ens sortira la impressora que hem compartit desde Ubuntu.
 
 ![Captura de pantalla 2025-04-02 114444](https://github.com/user-attachments/assets/bbc8b2ac-54d3-41e6-a328-9728e0b8209f)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # Activitat 2 - Compartir una impressora de Windows a Linux
