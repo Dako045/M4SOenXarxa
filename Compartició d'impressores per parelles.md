@@ -7,7 +7,6 @@ L'activitat consta de dues activitats i el treball final és fer un tutorial i u
 - Tutorial: Pàgina web amb explicació pas a pas de com s'ha resolt la situació proposada. Pots utilitzar qualsevol plataforma que sigui on line i gratuïta con Github, Gitlab, Google Sites...
 - Presentació: Amb  l´ordinador fareu una demostració a classe de com ho heu resolt.
 
-![image](https://github.com/user-attachments/assets/6e1502ff-4a52-4304-b279-1d5664d9f4f9)
 
 
 # Activitat 1 - Compartir una impressora de Linux a Windows
@@ -57,6 +56,8 @@ Un cop afegida comprovem que funciona enviant una pàgina de prova:
 ![image](https://github.com/user-attachments/assets/ead1df4d-8c57-4ea0-9d6e-166d89e7d575)
 
 I aqui podem comprovar que ha arribat:
+
+![image](https://github.com/user-attachments/assets/6e1502ff-4a52-4304-b279-1d5664d9f4f9)
 
 # Activitat 2 - Compartir una impressora de Windows a Linux
 
