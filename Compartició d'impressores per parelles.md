@@ -104,6 +104,10 @@ Aqui enviem una pagina de prova per veure que funciona correctament
 
 ![image](https://github.com/user-attachments/assets/ede22b93-6694-4efd-b933-d0d345235e15)
 
+I aqui ho podem comprovar
+
+![image](https://github.com/user-attachments/assets/5337e5ef-ee55-4efe-afc8-c8e08e0c5569)
+
 
 
 
