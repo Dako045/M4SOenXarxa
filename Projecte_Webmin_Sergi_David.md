@@ -38,6 +38,10 @@
 
 
 - Utilitzaran bash com a shell.
+
+ ![image](https://github.com/user-attachments/assets/937efcf9-dfa2-44fd-9650-5a0b23963ebd)
+ ![image](https://github.com/user-attachments/assets/dae5a2bf-b6be-419e-98b3-4e31ee891bed)
+
 - Els usuaris estaran dins del grup que tingui el seu mateix nom i dins del grup usuaris_empresa.
 - L'usuari techno no podrà fer login després del dia 31-03-2025.
 - Comproveu que els usuaris poden iniciar sessió.
