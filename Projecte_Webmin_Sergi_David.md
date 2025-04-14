@@ -43,23 +43,77 @@
  ![image](https://github.com/user-attachments/assets/dae5a2bf-b6be-419e-98b3-4e31ee891bed)
 
 - Els usuaris estaran dins del grup que tingui el seu mateix nom i dins del grup usuaris_empresa.
-- L'usuari techno no podrà fer login després del dia 31-03-2025.
+  
+ ![image](https://github.com/user-attachments/assets/229d7464-08cf-486f-8466-07b80a3f46b3)
+ ![image](https://github.com/user-attachments/assets/ac4f021c-31b0-432e-a116-57b85875a8da)
+ ![image](https://github.com/user-attachments/assets/577fbf8d-4245-4913-891b-5849dcecf39e)
+
+- L'usuari techno no podrà fer login després del dia 30-04-2025.(he canviat el dia per a que tingui sentit)
+
+![image](https://github.com/user-attachments/assets/db0cfdf2-8867-45ac-b1ba-5d221d548987)
+
 - Comproveu que els usuaris poden iniciar sessió.
-- Canvia la data del sistema (utilitzant webmin) i comprova que techno no pot iniciar sessió si estem a dia 01-04-2025.
+
+ ![image](https://github.com/user-attachments/assets/bd9c2423-a9a1-4f0d-979c-8fc1189baa8b)
+
+- Canvia la data del sistema (utilitzant webmin) i comprova que techno no pot iniciar sessió si estem a dia 01-05-2025.(he canviat la data per a que tingui sentit)
+
+ ![image](https://github.com/user-attachments/assets/360e739a-1cee-443b-a2f0-0a4bd02b7290)
+ ![image](https://github.com/user-attachments/assets/ccbf5f48-5780-459f-9fba-1423d676a257)
+ ![image](https://github.com/user-attachments/assets/2c0169f8-daa0-45c6-9337-ddcc88b97302)
 
 ## 2.- Programar tasques
 
 - Programa una tasca que neteja els paquets de Linux que ja no s'utilitzen una vegada al mes.
+
+ ![image](https://github.com/user-attachments/assets/2a227481-4bbe-41e6-a2ef-2f5d9660c891)
+ ![image](https://github.com/user-attachments/assets/a5774700-98b0-4e0b-b69f-eca192b54290)
+ ![image](https://github.com/user-attachments/assets/7a9dcaa2-61b6-4d6e-ab35-3f7ee5c891e0)
+ ![image](https://github.com/user-attachments/assets/4224f952-5fef-46bd-9b30-6671029dfac1)
+
 - Programa una tasca diaria que apaga l'ordinador a les 14:00.
+
+ ![image](https://github.com/user-attachments/assets/3917e1c6-4595-4d18-91c6-616e74990a6e)
+ ![image](https://github.com/user-attachments/assets/d0f58fca-f465-4767-8127-1dbc90b798ea)
+
 - Comprova que funcionen (canvia dia i hora del sistema mitjançant webmin).
+
+![image](https://github.com/user-attachments/assets/bc910d6b-969d-4617-85e6-6e2042dd7ff4)
+![image](https://github.com/user-attachments/assets/ac394b6c-3c2e-4f12-b972-3ea9db6a5ea8)
+![image](https://github.com/user-attachments/assets/f5113e47-dd77-46da-918b-ffc44243fab7)
+![image](https://github.com/user-attachments/assets/b6387aa7-1025-4c6a-b624-f25bac2e64d4)
+
   
 ## 3.- Instal·lació de software
 
 - Utilitza webmin per mostrar quins paquets de software es podrien actualitzar.
+
+![image](https://github.com/user-attachments/assets/04ec7f48-1647-4645-a5d8-52563e834c41)
+![image](https://github.com/user-attachments/assets/e902f8f6-1436-4e52-873c-0bf908982348)
+![image](https://github.com/user-attachments/assets/3cc8836c-543c-4d90-b919-2a905d4cf1a4)
+
 - Des de webmin actualitza un paquet.
+
+![image](https://github.com/user-attachments/assets/e902f8f6-1436-4e52-873c-0bf908982348)
+![image](https://github.com/user-attachments/assets/3cc8836c-543c-4d90-b919-2a905d4cf1a4)
+
 - Utilitza webmin per instal·lar un joc de apt.
+
+![image](https://github.com/user-attachments/assets/e3c014a2-a7c5-4dbe-89c6-ea8a7431769b)
+![image](https://github.com/user-attachments/assets/63f61688-5a88-47b3-8284-28d1c4b45145)
+![image](https://github.com/user-attachments/assets/69c903c9-30ee-41d9-9db8-3b84629a3e2c)
+
 - Utilitza webmin per instal·lar gimp de apt.
+
+![image](https://github.com/user-attachments/assets/4a4cea90-577a-4861-9edb-6c4f2ba24d89)
+![image](https://github.com/user-attachments/assets/9141bac3-e71c-43f7-b299-4679613aa873)
+
 - Utilitza webmin per desinatl·lar el joc que heu instal·lat abans.
+
+![image](https://github.com/user-attachments/assets/cc2af321-49e9-48b4-8d9b-92b29884c861)
+![image](https://github.com/user-attachments/assets/57a7e449-1e5c-4be2-bae2-534e150dfdfe)
+![image](https://github.com/user-attachments/assets/41d224fd-2270-4543-ba34-a1ef91ea4cd8)
+
 
 ## 4.- Serveis
 
