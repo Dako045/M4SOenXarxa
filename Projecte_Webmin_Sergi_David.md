@@ -118,12 +118,32 @@
 ## 4.- Serveis
 
 - Utilitza webmin per mostrar els serveis que s'inicien amb el sistema.
+
+![image](https://github.com/user-attachments/assets/c3830dfc-3790-41f8-b00c-cacc22fc81c5)
+
 - Utilitza webmin per mostrar els serveis que estan actius.
+
+![image](https://github.com/user-attachments/assets/7d604db0-5646-4637-845c-e6d88c847fe8)
+
 - Utilitza webmin per mostrar l'estat del servidor Apache.
+
+![image](https://github.com/user-attachments/assets/5f11f1e2-1d48-4d0f-8523-e3fcb4b50d83)
+
 - Utilitza webmin per aturar Apache.
+
+![image](https://github.com/user-attachments/assets/e82a5e49-6534-402b-bc6f-5f71e15aaf89)
+
 - Utilitza webmin per mostrar l'estat del servidor Apache apagat.
+
+![image](https://github.com/user-attachments/assets/3692d029-03f4-4c8d-a8fd-ca9c28997336)
+
 - Utilitza webmin per reiniciar Apache.
+
+![image](https://github.com/user-attachments/assets/a46bd361-f76c-4bc3-bbca-e99027a8af2d)
+
 - Utilitza webmin per mostrar l'estat del servidor Apache reiniciat.
+
+![image](https://github.com/user-attachments/assets/353e0e30-6569-4a83-aca5-195ff28234a6)
 
 ## 5.- Quotes de disc
 
@@ -132,6 +152,8 @@ Activa les quotes de disc pels usuaris amb la comanda:
 ```
 sudo apt install quota quotatool
 ```
+
+![image](https://github.com/user-attachments/assets/cdb3089f-b6c4-4550-8c87-f9a7b135bb12)
 
 - Utilitza webmin perquè l'usuari bakalao_X no pugui tenir més de 2 MB d'informació al disc.
 - Comprova que el límit de la quota funciona.
