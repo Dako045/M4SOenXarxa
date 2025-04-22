@@ -163,6 +163,9 @@ sudo apt install quota quotatool
 ## 6.- Còpies de seguretat
 
 - Utilitzant el mòdul de Webmin Filesystem Backup fes una còpia de seguretat del directori /home al directori /backups (l'haureu de crear si no existeix).
+
+![image](https://github.com/user-attachments/assets/b073ea65-057e-4d7e-96be-1b3f6b624e3e)
+
 - Modifica alguns fitxers de /home.
 - Recupera la còpia de seguretat.
 - Comprova que els fitxers de /home són els correctes.
