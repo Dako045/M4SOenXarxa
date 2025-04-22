@@ -156,27 +156,73 @@ sudo apt install quota quotatool
 ![image](https://github.com/user-attachments/assets/cdb3089f-b6c4-4550-8c87-f9a7b135bb12)
 
 - Utilitza webmin perquè l'usuari bakalao_X no pugui tenir més de 2 MB d'informació al disc.
+
+![image](https://github.com/user-attachments/assets/413fa582-6b0c-4fec-8d86-74fb597ee2f4)
+![image](https://github.com/user-attachments/assets/1ffd88db-2d81-4df8-8548-35a3e16de5e2)
+
 - Comprova que el límit de la quota funciona.
+
+![image](https://github.com/user-attachments/assets/d272c808-05ab-4cc0-99d8-5ed1aef8b828)
+
 - Utilitza webmin perquè l'usuari techno no pugui tenir més de 10 fitxers al disc.
+
+![image](https://github.com/user-attachments/assets/5e3403b1-a0ae-4ed5-ac64-f33e0eaec1b3)
+
+
 - Comprova que el límit de la quota funciona.
+
+![image](https://github.com/user-attachments/assets/02aa048e-9d11-40f5-b54e-7685b3027353)
 
 ## 6.- Còpies de seguretat
 
 - Utilitzant el mòdul de Webmin Filesystem Backup fes una còpia de seguretat del directori /home al directori /backups (l'haureu de crear si no existeix).
 
 ![image](https://github.com/user-attachments/assets/b073ea65-057e-4d7e-96be-1b3f6b624e3e)
+![image](https://github.com/user-attachments/assets/ae702bec-ebe8-4874-8b73-71fea5bfc071)
+![image](https://github.com/user-attachments/assets/02886b77-773b-4fdf-9960-57fe244899dd)
+![image](https://github.com/user-attachments/assets/33c1f9b9-c8b7-465c-af80-fa4ea74d0302)
+![image](https://github.com/user-attachments/assets/a6f32bff-5d02-4d18-b8d9-32594991b655)
 
 - Modifica alguns fitxers de /home.
+
+![image](https://github.com/user-attachments/assets/b1714658-925e-4ffb-9f4e-727011377f80)
+
 - Recupera la còpia de seguretat.
+
+![image](https://github.com/user-attachments/assets/f659f3d5-b28a-4275-b015-fd494eb879dc)
+![image](https://github.com/user-attachments/assets/c7cdc5c2-7209-435a-839b-a26daa8401a7)
+![image](https://github.com/user-attachments/assets/5aca6956-39c4-471a-91f0-d9ff085d0afc)
+
 - Comprova que els fitxers de /home són els correctes.
+
+![image](https://github.com/user-attachments/assets/06b65513-1e4d-4f78-a2d2-7c623475b9cc)
+
 - Programa una còpia de seguretat de /home/bakalao_X per els divendres a les 21:00.
+
+![image](https://github.com/user-attachments/assets/0ae246e9-7ef4-4d3d-b44c-bb4247f6a9f3)
+
 - Esborra la còpia de seguretat programada anteriorment.
+
+![image](https://github.com/user-attachments/assets/aa1bf419-6af8-4272-9553-80e48454be3a)
 
 ## 7.- Compartició
 
 - Crea un recurs a webmin que, utilitzant samba, comparteixi una carpeta anomenada "area_public_X" per a usuaris sense autenticar en forma de lectura i escriptura.
+
+![image](https://github.com/user-attachments/assets/617b128e-b499-4dce-bd68-e5fddca8ceef)
+![image](https://github.com/user-attachments/assets/ada0bafc-9105-46e4-9239-56d5a528214f)
+
 - Crea un recurs a webmin que, utilitzant samba, comparteixi una carpeta anomenada "pontaeri_privat_X" per a usuaris _X i techno només de lectura.
-- Comprovar des de Windows que aquests recursos funcionen.
+
+![image](https://github.com/user-attachments/assets/b2afebe6-9244-4492-89ef-3013408eb498)
+![image](https://github.com/user-attachments/assets/d2036482-c701-4ff4-8254-83aaa155c0ef)
+![image](https://github.com/user-attachments/assets/4c0c60e2-32c1-4fbd-9c0a-6fc4aca0688d)
+![image](https://github.com/user-attachments/assets/5a717bf4-f863-42ac-9117-2abce5a9541b)
+
+- Crea un recurs a webmin que, utilitzant samba, comparteixi una carpeta anomenada "pontaeri_privat_X" per a usuaris _X i techno només de lectura.
+
+![image](https://github.com/user-attachments/assets/a66792db-69fd-4430-9d58-68eeaa85b954)
+![image](https://github.com/user-attachments/assets/58a5ec1c-46f3-4423-a4fc-1ec1ec6014b4)
 
 ## Grups
 1.- Raul i Francesc
